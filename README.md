@@ -1,10 +1,11 @@
-# Traffic-Management-System
-Optimised Traffic Management system using RL. 
+# Traffic Management System
 
-STUDENTS : 
+## Description
+Optimised Traffic Management System using Reinforcement Learning (RL).
 
-Tejaswini MR - 22BCE1012
-Sudarshan N Sankaran - 22BCE1045
-Shivani S - 22BCE1158
-Ajjay Adhithya V - 22BCE1250
+## Students
+- **Tejaswini MR** - 22BCE1012
+- **Sudarshan N Sankaran** - 22BCE1045
+- **Shivani S** - 22BCE1158
+- **Ajjay Adhithya V** - 22BCE1250
 
